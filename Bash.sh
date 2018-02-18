@@ -29,7 +29,7 @@ email(){
 		echo "o e-mail esta correto."
 		sleep 1
 		clear
-		TEL
+		tel
 	else
 		echo "O e-mail esta incorreto."
 		echo "Tente outra vez."
