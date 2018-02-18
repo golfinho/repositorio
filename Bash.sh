@@ -71,7 +71,7 @@ rg(){
 		echo "Tente outra vez"
 		sleep 3
 		clear
-		RG
+		rg
 	fi
 }
 
